@@ -3,7 +3,7 @@ layout: "post.njk"
 title: "Welcome to Academic Blog Template"
 description: "Eleventy academic blog template"
 ---
- works??
+ works?? what about now?
 This is a template for academic blog. See the [GitHub Repository here](https://github.com/CondensedMilk7/eleventy-academic-template).
 
 It supports citations [@allport1935], powered by [markdown-it-biblatex](https://github.com/arothuis/markdown-it-biblatex),
